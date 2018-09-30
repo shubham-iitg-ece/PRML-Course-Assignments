@@ -1,6 +1,6 @@
 # PRML-Course-Assignments
 
-### Assignment-1
+### Assignment-1 [COMPLETED]
 
 #### Bayesian Decision Theory & Polynomial Regression
 
@@ -9,7 +9,7 @@
 1. & 2. Optical Recognition of Handwritten Digits Dataset from the UCI repository. The original dataset is transformed into data-points of dimension = 64.
 3. Wage dataset contains the income survey information for a group of males from Atlantic region of the United States.
 
-### Assignment-2
+### Assignment-2 [COMPLETED]
 
 #### Decision Tree Classifier & Regressor
 
